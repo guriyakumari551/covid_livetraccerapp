@@ -1,10 +1,11 @@
 import React from 'react'
+import Covid from './components/Covid';
 
 const App = () => {
   return (
     <>
-     <h1>i am sucessely completed how to push the repositery on github</h1> 
-    </>
+    <Covid/>
+     </>
   )
 }
 
