@@ -25,6 +25,41 @@ ul{
     align-items: center;
     background-color: rgb(116, 116, 209);
 }
+.card__main1 {
+    height: 150px;
+    width: 250px;
+    margin: 25px;
+    align-items: center;
+    background-color: rgb(177, 209, 116);
+}
+.card__main2 {
+    height: 150px;
+    width: 250px;
+    margin: 25px;
+    align-items: center;
+    background-color: rgb(209, 116, 181);
+}
+.card__main3 {
+    height: 150px;
+    width: 250px;
+    margin: 25px;
+    align-items: center;
+    background-color: mediumturquoise;
+}
+.card__main4 {
+    height: 150px;
+    width: 250px;
+    margin: 25px;
+    align-items: center;
+    background-color: pink;
+}
+.card__main5 {
+    height: 150px;
+    width: 250px;
+    margin: 25px;
+    align-items: center;
+    background-color: greenyellow;
+}
 
 .card__name{
     font-size: 25px;
@@ -40,3 +75,6 @@ ul{
     font-weight: bold;
 
 }
+p:hover > * {
+    transform: translateY(0);
+}~
