@@ -75,6 +75,6 @@ ul{
     font-weight: bold;
 
 }
-p:hover > * {
-    transform: translateY(0);
-}~
+.card:hover{
+    transform: scale(1.1);
+};
